@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-rencontre-inattendue/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Une Rencontre Inattendue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-rencontre-inattendue/) |
+| **Get License** | [Secure Licensing Rights for Une Rencontre Inattendue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-rencontre-inattendue/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> T'as croisé mon regard dans la pénombre, baby
+> Sous les stroboscopes, t'es ma seule folie
+> Let's ride away, j'veux te voler à la nuit
+> Un sourire de toi et mon cœur s'enfuit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
