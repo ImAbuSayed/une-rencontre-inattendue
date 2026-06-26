@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-rencontre-inattendue/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Une Rencontre Inattendue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-rencontre-inattendue/) |
+| **Get License** | [Obtain a Music License for Une Rencontre Inattendue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-rencontre-inattendue/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `232b4c3d19ce1693ed1d76c46046b0775a8a47a4702421710cab7a651d0732fc` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
